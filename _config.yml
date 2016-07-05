@@ -1,4 +1,4 @@
-name: jupit
+name: Jupit
 favicon: null
 layout_spectrum: 0.05147218471392989
 typography_spectrum: 0.237323977984488
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8927940642461181
-  lightness: 0.1005071634426713
-  saturation: 0.15938216052018106
-  rhythmicContrast: 0.6139249184634537
+    - '#ffffff'
+    - '#1d7495'
+    - '#7166c3'
+    - '#96c6c8'
+    - '#5faba7'
+  brandStrength: 0.75
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
