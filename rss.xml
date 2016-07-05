@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jupit Blog]]></title>
         <description><![CDATA[Jupit Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jupit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 21:56:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 22:20:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jupit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>by Briana Rojo</p>]]></description>
+            <link>https://thegrid.ai/jupit/by-briana-rojo/index.html</link>
+            <guid isPermaLink="false">25666d73-0a0a-48c0-a933-42662673797e</guid>
+            <pubDate>Tue, 05 Jul 2016 22:19:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Caught In The Energy Waves Of Israel]]></title>
             <description><![CDATA[<p>Back in March, one of our writers wrote about her ideal spiritual trip to Israel. In a serendipitous way an opportunity to visit Israel on a spiritual energy tour opened up for us this May. With a surplus of yoga and meditation retreats these days, this kind of journey seemed like a more offbeat, uncommon thing for us to partake in and therefore be able to share with our readers. This trip was unlike any other we’ve been on (and one of us has done a shamanic retreat in the Peruvian Amazons). The experience is quite hard to truly put into words. We hope this post will reach your heart and/or soul, rather than your intellect, as we cover the purpose of such a trip and give you the highlights.</p>]]></description>
-            <link>undefinedcaught-in-the-energy-waves-of-israel/index.html</link>
+            <link>https://thegrid.ai/jupit/caught-in-the-energy-waves-of-israel/index.html</link>
             <guid isPermaLink="false">45e1f219-2e74-4e4c-aa5a-ed5d702bb0c6</guid>
             <pubDate>Tue, 05 Jul 2016 21:55:44 GMT</pubDate>
         </item>
